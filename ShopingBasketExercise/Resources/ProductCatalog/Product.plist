@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ProductName</key>
+		<string>Acer Aspire Laptop</string>
+		<key>ProductPrice</key>
+		<string>$798.99</string>
+		<key>ProductImage</key>
+		<string>Acer.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>***</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>Apex 23 Class 720p 60Hz LED TV</string>
+		<key>ProductPrice</key>
+		<string>$1198.99</string>
+		<key>ProductImage</key>
+		<string>Apex.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>*****</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>Apple 16GB The new iPad with Wi-Fi</string>
+		<key>ProductPrice</key>
+		<string>$398.99</string>
+		<key>ProductImage</key>
+		<string>Apple.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>****</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>Canon EOS Rebel T3i 18MP Digital SLR Camera</string>
+		<key>ProductPrice</key>
+		<string>$499.99</string>
+		<key>ProductImage</key>
+		<string>Canon.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>*</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>Chicken Soup for the Soul Shaping</string>
+		<key>ProductPrice</key>
+		<string>$1099.99</string>
+		<key>ProductImage</key>
+		<string>Chicken.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>***</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>Miracles The Holiday Album</string>
+		<key>ProductPrice</key>
+		<string>$358.99</string>
+		<key>ProductImage</key>
+		<string>Miracles.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>****</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>Nabi 7 Kids Android Tablet 8GB Storage</string>
+		<key>ProductPrice</key>
+		<string>$356.99</string>
+		<key>ProductImage</key>
+		<string>NabiRed.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>*****</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>Nikon 14.2MP Digital SLR Camera</string>
+		<key>ProductPrice</key>
+		<string>$449.99</string>
+		<key>ProductImage</key>
+		<string>Nikon.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>***</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>Polaroid 19 Class 720p 60Hz LED/DVD Combo</string>
+		<key>ProductPrice</key>
+		<string>$749.99</string>
+		<key>ProductImage</key>
+		<string>Polaroid.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>**</string>
+	</dict>
+	<dict>
+		<key>ProductName</key>
+		<string>The Mark of Athena by Rick Riordan</string>
+		<key>ProductPrice</key>
+		<string>$729.99</string>
+		<key>ProductImage</key>
+		<string>Athena.jpeg</string>
+		<key>DefaultRating</key>
+		<string>*****</string>
+		<key>ProductRating</key>
+		<string>*****</string>
+	</dict>
+</array>
+</plist>
